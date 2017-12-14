@@ -1,0 +1,4 @@
+Nachos@@A heaping plate of nachos@@200
+Fried Cheese@@Cheese breaded and fried@@300
+Peirogies@@Filled with potatoes@@250
+Pretzel@@A large pretzel@@150

@@ -1,0 +1,110 @@
+
+Menu Name: Most Expensive
+Total Price: $33.55
+Total Calories: 960
+
+Entree: Sirloin Steak
+A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked
+Calories: 420	Price: $22.50
+
+Side: Quinoa
+Quinoa
+Calories: 140	Price: $2.25
+
+Appetizer: Nachos
+A heaping plate of nachos
+Calories: 200	Price: $6.00
+
+Beer: Railbender
+Tastes like iron!
+Calories: 200	Price: $2.80
+
+************************************************************
+
+Menu Name: Least Expensive
+Total Price: $19.55
+Total Calories: 920
+
+Entree: Curry Chicken
+Curry marinated chicken, cooked slowly in wood fire oven
+Calories: 430	Price: $11.50
+
+Side: Quinoa
+Quinoa
+Calories: 140	Price: $2.25
+
+Appetizer: Pretzel
+A large pretzel
+Calories: 150	Price: $3.00
+
+Beer: Railbender
+Tastes like iron!
+Calories: 200	Price: $2.80
+
+************************************************************
+
+Menu Name: Max Calorie
+Total Price: $28.00
+Total Calories: 1560
+
+Entree: Griller Steak
+Carfully selected prime quality steak griller to the point of your preference
+Calories: 740	Price: $15.00
+
+Side: Grilled Potatoes
+Boiled potatoes grilled in oven with a touch of butter
+Calories: 270	Price: $4.75
+
+Appetizer: Fried Cheese
+Cheese breaded and fried
+Calories: 300	Price: $5.00
+
+Beer: Yuengling
+A classic standby
+Calories: 250	Price: $3.25
+
+************************************************************
+
+Menu Name: Min Calorie
+Total Price: $31.75
+Total Calories: 885
+
+Entree: Sirloin Steak
+A delicious piece of 1/2 a pound of our carefully selected meat grilled and seasoned. Choose how much you want it cooked
+Calories: 420	Price: $22.50
+
+Side: Quinoa
+Quinoa
+Calories: 140	Price: $2.25
+
+Appetizer: Pretzel
+A large pretzel
+Calories: 150	Price: $3.00
+
+Beer: Augustiner
+As good as you imagine
+Calories: 175	Price: $4.00
+
+************************************************************
+
+Menu Name: Rando
+Total Price: $22.50
+Total Calories: 1100
+
+Entree: Curry Chicken
+Curry marinated chicken, cooked slowly in wood fire oven
+Calories: 430	Price: $11.50
+
+Side: Grilled Potatoes
+Boiled potatoes grilled in oven with a touch of butter
+Calories: 270	Price: $4.75
+
+Appetizer: Pretzel
+A large pretzel
+Calories: 150	Price: $3.00
+
+Beer: Yuengling
+A classic standby
+Calories: 250	Price: $3.25
+
+************************************************************
